@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@nikgalkin&layout=compact&bg_color=30,1d2c15,505b42&title_color=ffffd2&text_color=fff&custom_title=Wakatime+Stats+last+7+days" width="450px">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@nikgalkin&langs_count=10&layout=compact&hide=text,smarty&theme=city_lights&custom_title=Wakatime+Stats+last+7+days">
