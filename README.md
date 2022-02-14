@@ -1,1 +1,1 @@
-<img alt="Wakatime Stats last 7 days" src="https://github-readme-stats.vercel.app/api/wakatime?username=@nikgalkin&langs_count=8&layout=compact&hide=text,smarty&theme=city_lights&custom_title=Wakatime+Stats+last+7+days">
+<img alt="Wakatime Stats last 7 days" src="https://github-readme-stats.vercel.app/api/wakatime?username=@nikgalkin&langs_count=8&layout=compact&hide=text,smarty&theme=city_lights&custom_title=Wakatime+Stats+last+7+days" width="430px">
